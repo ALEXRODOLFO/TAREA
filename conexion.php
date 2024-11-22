@@ -1,2 +1,2 @@
 <?php
-$mysqli = new mysqli("localhost","root","","terminaldb");
+$mysqli = new mysqli("localhost","root","","bd_tienda");
